@@ -18,5 +18,6 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
-![Screenshot 2024-08-01 001818](https://github.com/user-attachments/assets/a71319a0-96f2-477d-82c3-e603b6de6646)
+![Screenshot 2024-08-01 003831](https://github.com/user-attachments/assets/6f12a517-c687-48a8-8fef-848916984942)
+
 
